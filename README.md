@@ -11,7 +11,7 @@ This project is a simple English-Vietnamese dictionary implemented in C++ using 
 🛠 Built with:
 - C++ (Standard Library)
 - Text-to-speech via Windows PowerShell
-Note: if you dont use Text-to-speech you must openr powershell and paste "Set-ExecutionPolicy RemoteSigned"
+- Note: if you don't use Text-to-speech, you must open powershell and paste "Set-ExecutionPolicy RemoteSigned"
 
 📂 Project structure:
 - `src/`: source files (.cpp)
