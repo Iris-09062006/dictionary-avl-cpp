@@ -1,0 +1,328 @@
+Congress:Quốc hội
+ability:năng lực
+about:về
+above:ở trên
+accept:chấp nhận
+accident:tai nạn
+account:tài khoản
+act:hành động
+active:năng động
+activity:hoạt động
+actor:diễn viên
+add:thêm
+address:địa chỉ
+adult:người lớn
+advice:lời khuyên
+afraid:sợ
+after:sau
+afternoon:buổi chiều
+again:một lần nữa
+against:chống lại
+age:tuổi
+agent:đại lý
+agree:đồng ý
+air: không khí
+airport:sân bay
+all:tất cả
+allow:cho phép
+almost:gần như
+alone:một mình
+along:dọc theo
+already:đã
+also:cũng
+always:luôn luôn
+amazing:kinh ngạc
+amount:số lượng
+analysis:phân tích
+animal:động vật
+another:một cái khác
+answer:câu trả lời
+apple:quả táo
+area:khu vực
+argue:tranh luận
+arm:cánh tay
+army:quân đội
+around:xung quanh
+arrive:đến nơi
+art:nghệ thuật
+article:bài viết
+artist:nghệ sĩ
+as:như là
+ask:hỏi
+at:ở
+attack:tấn công
+attention:sự chú ý
+attorney:luật sư
+audience:khán giả
+author:tác giả
+available:có sẵn
+avoid:tránh
+baby:em bé
+back:lưng
+bad:xấu
+bag:cái túi
+ball:quả bóng
+bank:ngân hàng
+bar:quán bar
+base:cơ sở
+basic:cơ bản
+beautiful:xinh đẹp
+because:bởi vì
+become:trở thành
+bed:giường
+before:trước
+begin:bắt đầu
+behavior:hành vi
+behind:phía sau
+believe:tin tưởng
+benefit:lợi ích
+best:tốt nhất
+better:tốt hơn
+between:giữa
+beyond:vượt ra
+big:lớn
+bill:hóa đơn
+billion:tỷ
+bird:con chim
+bit:một chút
+black:đen
+blood:máu
+blue:xanh dương
+board:bảng
+body:cơ thể
+book:sách
+born:sinh ra
+both:cả hai
+box:hộp
+boy:con trai
+break:nghỉ
+bring:mang theo
+brother:anh/em trai
+budget:ngân sách
+build:xây dựng
+building:tòa nhà
+business:kinh doanh
+busy:bận rộn
+but:nhưng
+buy:mua
+by:bởi
+call:gọi
+camera:máy ảnh
+campaign:chiến dịch
+can:có thể
+cancer:ung thư
+candidate:ứng viên
+capital:thủ đô
+car:xe hơi
+card:thẻ
+care:quan tâm
+career:sự nghiệp
+carry:mang
+case:trường hợp
+cat:con mèo
+catch:bắt lấy
+cause:nguyên nhân
+cell:tế bào
+center:trung tâm
+central:trung ương
+century:thế kỷ
+certain:chắc chắn
+certainly:chắc chắn rồi
+chair:ghế
+challenge:thử thách
+chance:cơ hội
+change:thay đổi
+character:nhân vật
+charge:phí
+check:kiểm tra
+child:trẻ em
+choice:lựa chọn
+choose:chọn
+church:nhà thờ
+citizen:công dân
+city:thành phố
+class:lớp học
+clear:rõ ràng
+clearly:một cách rõ ràng
+client:khách hàng
+climate:khí hậu
+close:đóng
+coach:huấn luyện viên
+cold:lạnh
+college:trường đại học
+color:màu sắc
+come:đến
+comment:bình luận
+commercial:thương mại
+common:phổ biến
+community:cộng đồng
+company:công ty
+compare:so sánh
+computer:máy tính
+concern:mối quan tâm
+condition:điều kiện
+conference:hội nghị
+consider:xem xét
+consumer:người tiêu dùng
+contain:chứa đựng
+continue:tiếp tục
+control:kiểm soát
+cost:chi phí
+could:có thể
+country:đất nước
+couple:cặp đôi
+course:khóa học
+court:tòa án
+cover:che phủ
+create:tạo ra
+crime:tội phạm
+cultural:văn hóa
+culture:văn hóa
+cup:cốc
+current:hiện tại
+customer:khách hàng
+cut:cắt
+dark:tối
+data:dữ liệu
+daughter:con gái
+day:ngày
+dead:chết
+deal:giao dịch
+death:cái chết
+debate:tranh luận
+decade:thập kỷ
+decide:quyết định
+decision:quyết định
+deep:sâu
+defense:phòng thủ
+degree:bằng cấp
+deliver:giao hàng
+demand:nhu cầu
+department:phòng ban
+depend:phụ thuộc
+describe:miêu tả
+design:thiết kế
+despite:mặc dù
+detail:chi tiết
+determine:xác định
+develop:phát triển
+development:sự phát triển
+die:chết
+difference:khác biệt
+different:khác nhau
+difficult:khó
+direction:phương hướng
+director:giám đốc
+discover:khám phá
+discuss:thảo luận
+discussion:cuộc thảo luận
+disease:bệnh tật
+do:làm
+doctor:bác sĩ
+dog:con chó
+door:cánh cửa
+down:xuống
+draw:vẽ
+dream:giấc mơ
+drive:lái xe
+drop:rơi
+drug:thuốc
+during:trong suốt
+each:mỗi
+early:sớm
+east:phía đông
+easy:dễ dàng
+eat:ăn
+economic:kinh tế
+economy:nền kinh tế
+edge:rìa
+education:giáo dục
+effect:tác động
+effort:nỗ lực
+egg:trứng
+eight:tám
+either:một trong hai
+election:cuộc bầu cử
+else:khác
+employee:nhân viên
+end:kết thúc
+energy:năng lượng
+enjoy:thưởng thức
+enough:đủ
+enter:vào
+entire:toàn bộ
+environment:môi trường
+especially:đặc biệt là
+establish:thiết lập
+even:thậm chí
+evening:buổi tối
+event:sự kiện
+ever:đã từng
+every:mỗi
+everybody:mọi người
+everyone:tất cả mọi người
+everything:mọi thứ
+evidence:bằng chứng
+exactly:chính xác
+example:ví dụ
+executive:giám đốc điều hành
+exist:tồn tại
+expect:mong đợi
+experience:kinh nghiệm
+expert:chuyên gia
+explain:giải thích
+eye:mắt
+face:khuôn mặt
+fact:sự thật
+factor:yếu tố
+fail:thất bại
+fall:ngã
+family:gia đình
+famous:nổi tiếng
+far:xa
+farm:nông trại
+fast:nhanh
+father:bố
+fear:nỗi sợ
+federal:liên bang
+feel:cảm thấy
+feeling:cảm xúc
+few:một vài
+field:cánh đồng
+fight:chiến đấu
+figure:con số
+fill:lấp đầy
+film:phim
+final:cuối cùng
+finally:cuối cùng thì
+financial:tài chính
+find:tìm thấy
+fine:ổn
+finger:ngón tay
+finish:kết thúc
+fire:lửa
+firm:hãng
+first:đầu tiên
+fish:con cá
+floor:sàn nhà
+fly:bay
+focus:tập trung
+follow:theo dõi
+food:thức ăn
+foot:bàn chân
+for:cho
+force:lực lượng
+foreign:nước ngoài
+forget:quên
+form:hình thức
+former:trước đây
+forward:phía trước
+four:bốn
+free:miễn phí
+friend:bạn bè
+from:từ
+front:phía trước
+fuck:ditme
+full:đầy
+fund:quỹ
+future:tương lai

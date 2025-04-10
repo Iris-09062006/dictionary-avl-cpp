@@ -1,0 +1,7 @@
+```gitignore
+*.exe
+*.obj
+*.o
+*.db
+temp.txt
+.vscode/
